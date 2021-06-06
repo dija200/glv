@@ -1,0 +1,1 @@
+l'id voiture:345,marque:BTS,Nom:ARMY,couleur:BLACK,nombre de place:2,le prix d'un jour:345$,en location:NON4566 MAFIA VINCENZO CASSANO 44
